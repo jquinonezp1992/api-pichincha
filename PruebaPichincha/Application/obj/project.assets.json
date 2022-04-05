@@ -849,11 +849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -870,8 +870,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Domain\\Domain.csproj"
+            "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Domain\\Domain.csproj"
             }
           }
         }

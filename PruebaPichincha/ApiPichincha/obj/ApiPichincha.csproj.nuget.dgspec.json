@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\ApiPichincha\\ApiPichincha.csproj": {}
+    "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\ApiPichincha\\ApiPichincha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\ApiPichincha\\ApiPichincha.csproj": {
+    "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\ApiPichincha\\ApiPichincha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\ApiPichincha\\ApiPichincha.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\ApiPichincha\\ApiPichincha.csproj",
         "projectName": "ApiPichincha",
-        "projectPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\ApiPichincha\\ApiPichincha.csproj",
+        "projectPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\ApiPichincha\\ApiPichincha.csproj",
         "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\ApiPichincha\\obj\\",
+        "outputPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\ApiPichincha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\Application.csproj"
+              "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\Application.csproj"
               },
-              "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Persistence\\Persistence.csproj"
+              "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\Application.csproj": {
+    "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,8 +126,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Domain\\Domain.csproj"
+              "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Domain\\Domain.csproj"
               }
             }
           }
@@ -178,14 +178,14 @@
         }
       }
     },
-    "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Domain\\Domain.csproj": {
+    "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -232,14 +232,14 @@
         }
       }
     },
-    "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -256,8 +256,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Jhonatan\\Downloads\\PruebaPichincha\\PruebaPichincha\\Application\\Application.csproj"
+              "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Jhonatan\\Documents\\Jorge\\api-pichincha\\PruebaPichincha\\Application\\Application.csproj"
               }
             }
           }
